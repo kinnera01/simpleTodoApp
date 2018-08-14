@@ -1,0 +1,8 @@
+
+ div#arti.jumbotron {
+  height:300px;
+  width:100%;
+  background-image: url(https://www.toolshero.nl/wp-content/uploads/to-do-list-toolshero-696x348.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+ }

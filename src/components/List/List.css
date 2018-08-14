@@ -1,0 +1,14 @@
+.todoitem {
+  margin: 10px;
+  padding: 10px;
+  width:40%;
+  border: 1px solid #bbb;
+  background-color: #eee;
+}
+
+.todoitem span {
+  font-size: 1.2em;
+  text-decoration: none;
+  color:green;
+  padding-left:5%; 
+}
